@@ -14,12 +14,11 @@ html {
 .container {
     display: grid;
     grid-template-columns: repeat(5, auto);
-    grid-template-rows: repeat(3, auto);
+    grid-template-rows: repeat(2, auto);
     grid-gap: 1.5em 1.5em;
     margin: 13em 2em;
-    max-width: 75em;
+    max-width: 70em;
     min-width: 12.5em;
-    height: 100vh;
 }
 
 img {
@@ -62,14 +61,15 @@ img {
 }
 
 h2 {
-    padding-bottom: 0.938em;
+    padding-bottom: 1.5em;
     font-weight: 500;
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 
 p {
     font-weight: 200;
-    font-size: 1em;
+    font-size: 0.9em;
+    line-height: 23px;
 }
 
 .perfil-daniel {
