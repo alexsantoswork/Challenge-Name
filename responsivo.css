@@ -1,0 +1,17 @@
+@media (max-width: 46.25em) {
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        margin: 3.125em;
+    }
+}
+
+@media (max-width: 25em) {
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        margin: 3.125em 0.625em;
+    }
+}
