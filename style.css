@@ -16,7 +16,7 @@ html {
     grid-template-columns: repeat(5, auto);
     grid-template-rows: repeat(3, auto);
     grid-gap: 1em 1em;
-    margin:0.875em;
+    margin: 7em 2em;
     max-width: 56.25em;
     min-width: 12.5em;
 }
@@ -109,15 +109,4 @@ p {
     border-radius: 0.625em;
     padding: 1.25em;
     color: hsl(210, 46%, 95%);
-}
-
-.attribution {
-    font-size: 0.688em;
-    text-align: center;
-    bottom: 1.25em;
-    position: relative;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
 }
