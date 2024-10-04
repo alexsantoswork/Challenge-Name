@@ -16,8 +16,8 @@ html {
     grid-template-columns: repeat(5, auto);
     grid-template-rows: repeat(3, auto);
     grid-gap: 1em 1em;
-    margin: 10em 2em;
-    max-width: 65em;
+    margin: 13em 2em;
+    max-width: 75em;
     min-width: 12.5em;
 }
 
