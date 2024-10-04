@@ -16,8 +16,8 @@ html {
     grid-template-columns: repeat(5, auto);
     grid-template-rows: repeat(3, auto);
     grid-gap: 1em 1em;
-    margin: 7em 2em;
-    max-width: 56.25em;
+    margin: 10em 2em;
+    max-width: 65em;
     min-width: 12.5em;
 }
 
@@ -57,7 +57,7 @@ img {
     opacity: 0.4;
     font-size: 6.25em;
     position: sticky;
-    left: 28.125em;
+    left: 5em;
 }
 
 h2 {
